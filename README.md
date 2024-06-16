@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a passionate software developer with experien
 ## About Me
 
 - **Name:** Farhan Shahid
-- **Education:** B.Tech in Computer Science, Delhi Technological University (2022-2026)
+- **Education:** B.Tech , Delhi Technological University (2022-2026)
 - **Email:** farhan078609@gmail.com
 - **Location:** New Delhi, India
 
