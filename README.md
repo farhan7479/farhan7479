@@ -8,9 +8,8 @@ Welcome to my GitHub profile! I'm passionate about software development, and I e
 
 - 🌱 I’m currently learning advanced MERN stack techniques.
 - 👯 I’m looking to collaborate on MERN stack projects.
-- 🤔 I’m looking for help with container orchestration using Docker.
 - 💬 Ask me about React, MERN, HTML, CSS, JavaScript, MongoDB, MySQL, Node.js, and Docker.
-- 📫 How to reach me: [farhan@example.com](mailto:farhan@example.com).
+- 📫 How to reach me: [farhan@example.com](mailto:farhan078609@gmail.com).
 
 ## 🛠️ Languages and Tools
 
