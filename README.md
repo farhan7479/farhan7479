@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm passionate about software development, and I e
 
 ## 📈 GitHub Activity Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=farhan7479&bg_color=FFFFFF&color=000000&line=00E676&point=000000&hide_border=true)
+[![Farhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=farhan7479&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📫 Connect with me
 
