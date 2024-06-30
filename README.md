@@ -16,20 +16,6 @@ A web app for facilitating interviews with real-time face detection, gaze tracki
 
 - **Technologies:** React, Node.js, Firebase, MongoDB, Socket.io
 
-### 🔐 Private Chat App
-A secure chat application for seamless communication.
-
-- **Technologies:** Next.js, Node.js, Socket.io, MongoDB
-
-### 🔍 Google Clone
-A functional clone of the Google search interface.
-
-- **Technologies:** Next.js, Tailwind CSS
-
-### 🏡 Real Estate Project
-A web app for browsing and managing real estate listings.
-
-- **Technologies:** React, Next.js, Node.js, MongoDB
 
 ## 📚 Internship Projects
 
@@ -49,12 +35,6 @@ A health and diet improvement web application.
 - **Frameworks and Libraries:** React, React Native, Next.js, Node.js, Express.js, Socket.io, Prisma
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git, VSCode, Docker, AWS
-
-## 🏆 Achievements
-
-- **2 Star rated coder on CodeChef**
-- **Solved 1000+ DSA and CP problems on Leetcode, GeeksforGeeks, CodeChef**
-- **Ranked in the top 10 teams at Hack Genisys’24**
 
 ## 📫 Contact Me
 
