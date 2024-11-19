@@ -1,38 +1,53 @@
-# Hi there 👋, I'm Farhan Shahid!
-![Profile Views](https://komarev.com/ghpvc/?username=farhan7479&color=green)
-[![GitHub Contributions](https://img.shields.io/github/contributions/farhan7479/farhan7479?color=success&label=Total%20Contributions&style=flat-square)](https://github.com/farhan7479)
+<div>           
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Farhan+Shahid,+Welcome+to+My+Profile!+;I+am+a+MERN+Stack+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
+<br />
+ 
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan7479&label=Profile%20views&color=0e75b6&style=flat" alt="farhan7479" /> </p>
+<div style="display:flex">
+  <img align="right" alt="coding_img" width="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
-Welcome to my GitHub profile! I'm passionate about software development, and I enjoy working on exciting projects. Here you'll find some of my public projects, contributions, and open-source work.
-
-## 🚀 About Me
 - 🌱 I'm currently learning advanced MERN stack techniques
 - 👯 I'm looking to collaborate on MERN stack projects
 - 💬 Ask me about React, MERN, HTML, CSS, JavaScript, MongoDB, MySQL, Node.js, and Docker
 - 📫 How to reach me: [farhan078609@gmail.com](mailto:farhan078609@gmail.com)
-
-## 🛠️ Languages and Tools
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![MERN](https://img.shields.io/badge/MERN-3DDC84?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## 📊 GitHub Statistics
-<div align="center">
-  
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhan7479&show_icons=true&hide_border=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhan7479&layout=compact&theme=radical)
-
 </div>
 
-## 📈 GitHub Activity Graph
-[![Farhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=farhan7479&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+<h2>Social Info :</h2>
+<div id="badges">
+    <a href="https://www.linkedin.com/in/farhan-shahid-709baa248/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:farhan078609@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://twitter.com/your-twitter-username">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+</div>
 
-## 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-shahid-709baa248/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhan078609@gmail.com)
+---
+<h2>Tech Stack :</h2>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,mongodb,mysql,docker,git&perline=5">
+</p>
+
+---
+<h2>Github Stats :bar_chart:</h2>
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=farhan7479&count_private=true&show_icons=true&theme=react" /> 
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=farhan7479&theme=react&card_width=425&card_height=194" alt="GitHub Streak" /></a>
+</p>
+
+<p align="center">
+  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=farhan7479&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan7479&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
