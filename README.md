@@ -1,5 +1,5 @@
 <div>           
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Farhan+Shahid,+Welcome+to+My+Profile!+;I+am+a+MERN+Stack+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Farhan+Shahid,+Welcome+to+My+Profile!+;Full+Stack+Developer+Specializing+in+Java+%26+MERN;Passionate+about+creating+robust+applications" alt="Typing SVG" /></a>
 <br />
  
 ---
@@ -7,10 +7,10 @@
 <div style="display:flex">
   <img align="right" alt="coding_img" width="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
-- 🌱 I'm currently learning advanced MERN stack techniques
-- 👯 I'm looking to collaborate on MERN stack projects
-- 💬 Ask me about React, MERN, HTML, CSS, JavaScript, MongoDB, MySQL, Node.js, and Docker
-- 📫 How to reach me: [farhan078609@gmail.com](mailto:farhan078609@gmail.com)
+- 💻 Experienced in Java Backend Development
+- ⚛️ Proficient in React and MERN Stack
+- 🚀 Building scalable web applications
+- 🎯 Focused on writing clean, efficient code
 </div>
 
 ---
@@ -28,9 +28,20 @@
 </div>
 
 ---
+<h2>Coding Profiles :</h2>
+<div id="badges">
+    <a href="https://leetcode.com/u/shahid957farhan/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
+    </a>
+    <a href="https://www.geeksforgeeks.org/user/farhan95/">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-darkgreen?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" alt="GeeksForGeeks Badge"/>
+    </a>
+</div>
+
+---
 <h2>Tech Stack :</h2>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,mongodb,mysql,docker,git&perline=5">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,js,html,css,mongodb,mysql,docker,git&perline=6">
 </p>
 
 ---
